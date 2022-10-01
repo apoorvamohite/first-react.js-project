@@ -1,3 +1,10 @@
+# Monsters Rolodex
+
+This is my first React project. It includes interaction between react components, state and props. It is hosted on github pages.
+[https://apoorvamohite.github.io/first-react.js-project/]
+
+![img](https://github.com/apoorvamohite/readme-images/blob/main/Screenshot%202022-10-01%20142447.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
