@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-monster-giggle/static/css/main.2ef83b6e.chunk.css",
-    "main.js": "/react-monster-giggle/static/js/main.a28f73ed.chunk.js",
-    "main.js.map": "/react-monster-giggle/static/js/main.a28f73ed.chunk.js.map",
-    "runtime-main.js": "/react-monster-giggle/static/js/runtime-main.0cf8e96e.js",
-    "runtime-main.js.map": "/react-monster-giggle/static/js/runtime-main.0cf8e96e.js.map",
-    "static/js/2.7d94dc6b.chunk.js": "/react-monster-giggle/static/js/2.7d94dc6b.chunk.js",
-    "static/js/2.7d94dc6b.chunk.js.map": "/react-monster-giggle/static/js/2.7d94dc6b.chunk.js.map",
-    "index.html": "/react-monster-giggle/index.html",
-    "precache-manifest.383bb733c553aa0cc13cc58d0c556816.js": "/react-monster-giggle/precache-manifest.383bb733c553aa0cc13cc58d0c556816.js",
-    "service-worker.js": "/react-monster-giggle/service-worker.js",
-    "static/css/main.2ef83b6e.chunk.css.map": "/react-monster-giggle/static/css/main.2ef83b6e.chunk.css.map",
-    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/react-monster-giggle/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
+    "main.css": "/first-react.js-project/static/css/main.2ef83b6e.chunk.css",
+    "main.js": "/first-react.js-project/static/js/main.7a5fbebd.chunk.js",
+    "main.js.map": "/first-react.js-project/static/js/main.7a5fbebd.chunk.js.map",
+    "runtime-main.js": "/first-react.js-project/static/js/runtime-main.3216a582.js",
+    "runtime-main.js.map": "/first-react.js-project/static/js/runtime-main.3216a582.js.map",
+    "static/js/2.7d94dc6b.chunk.js": "/first-react.js-project/static/js/2.7d94dc6b.chunk.js",
+    "static/js/2.7d94dc6b.chunk.js.map": "/first-react.js-project/static/js/2.7d94dc6b.chunk.js.map",
+    "index.html": "/first-react.js-project/index.html",
+    "precache-manifest.1a696003a299e09da2c3895fd7c43f37.js": "/first-react.js-project/precache-manifest.1a696003a299e09da2c3895fd7c43f37.js",
+    "service-worker.js": "/first-react.js-project/service-worker.js",
+    "static/css/main.2ef83b6e.chunk.css.map": "/first-react.js-project/static/css/main.2ef83b6e.chunk.css.map",
+    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/first-react.js-project/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cf8e96e.js",
+    "static/js/runtime-main.3216a582.js",
     "static/js/2.7d94dc6b.chunk.js",
     "static/css/main.2ef83b6e.chunk.css",
-    "static/js/main.a28f73ed.chunk.js"
+    "static/js/main.7a5fbebd.chunk.js"
   ]
 }
