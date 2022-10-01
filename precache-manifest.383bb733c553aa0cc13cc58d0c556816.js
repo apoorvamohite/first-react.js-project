@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "760a7af0e0204231c5590b66213307df",
+    "revision": "79f8d80e3235b41a2911238957ea8bfd",
     "url": "/react-monster-giggle/index.html"
   },
   {
-    "revision": "d976634397e80d6070c3",
-    "url": "/react-monster-giggle/static/css/main.f83c20ef.chunk.css"
+    "revision": "24e85da17dae9aae7933",
+    "url": "/react-monster-giggle/static/css/main.2ef83b6e.chunk.css"
   },
   {
     "revision": "f7b84cd810271619eca9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-monster-giggle/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d976634397e80d6070c3",
-    "url": "/react-monster-giggle/static/js/main.c57ff88d.chunk.js"
+    "revision": "24e85da17dae9aae7933",
+    "url": "/react-monster-giggle/static/js/main.a28f73ed.chunk.js"
   },
   {
     "revision": "01e01abb0acb7a77f0de",
